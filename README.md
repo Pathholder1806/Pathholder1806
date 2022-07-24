@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pathholder1806
+- 👋 Hi, I’m Yashjeet Singh(@athholder1806)
 - 👀 I’m interested in Coding especially Web Development
 - 🌱 I’m currently coding and learning various technologies like HTML, CSS, JavascriptReact, Node, Express, MongoDB.
 - 💞️ I’m looking to collaborate on Fontend technologies(HTML, CSS, JavaScript, React) and beckend technologies (Node, Express, MongoDB)
