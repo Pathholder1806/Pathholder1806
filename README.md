@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/yashjeetsingh09" target="blank"><img src="https://img.shields.io/twitter/follow/yashjeetsingh09?logo=twitter&style=for-the-badge" alt="yashjeetsingh09" /></a> </p>
 
+- 🌱 I’m currently learning **DevOps, Docker, Kubernetes and Cloud-systems**
+
+- 💬 Ask me about **React, React Native, HTML, CSS, JavaScript, Node, Git, Rest, Linux, Express, MongoDB and Mongoose**
+
+- 📫 How to reach me **syashjeet08@gmail.com**
+
+- ⚡ Fun fact **I love to interact with new people and contribute with them to add value.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashjeetsingh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashjeetsingh09" height="30" width="40" /></a>
@@ -18,5 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathholder1806&show_icons=true&locale=en&layout=compact" alt="pathholder1806" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathholder1806&show_icons=true&locale=en" alt="pathholder1806" /></p>
-
 
